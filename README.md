@@ -1,2 +1,6 @@
 # noput
-Terminal readme
+Terminal cv readme
+
+```javascript
+npx niceoutput
+```
