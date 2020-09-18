@@ -1,6 +1,6 @@
 {
   "name": "niceoutput",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "About Mário",
   "bin": {
     "niceoutput": "niceoutput.js"
