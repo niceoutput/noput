@@ -9,7 +9,7 @@ var iq = require("inquirer");
 var opn = require("open");
 
 got(
-  "https://avatars1.githubusercontent.com/u/1120141?s=400&u=4f9b3a716836b0455cf5804b5e6336119a690553&v=4",
+  "https://avatars3.githubusercontent.com/u/1120141?s=460&u=a0887697dc367f70ceef2d92ebd273b1d6aeea72&v=4",
   {
     responseType: "buffer",
   }
