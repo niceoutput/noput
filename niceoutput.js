@@ -30,11 +30,6 @@ I'm a passionate ${c.bgRed.white.bold("frontend developer")} living in ${c.bold(
           c.hex("#3858A2").bold("Uniplaces"),
           "https://www.uniplaces.com"
         )}.
-I ${c.bold("wrote a book")} about ${c.underline.bold.yellow(
-          "JavaScript"
-        )}. I love being part of development of web technologies. I like to ${c.bold(
-          "organize conferences and give talks"
-        )}.
 I love ${c.underline.bold.green(
           "frontend development"
         )} and I build things on my GitHub profile ${link(
